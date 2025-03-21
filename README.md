@@ -1,6 +1,6 @@
 # Intelligent Parking Systems: Optimizing Space Utilization
 
-## Project 1: Parking Spot Detector
+## Parking Spot Detector
 
 **Overview**
 
